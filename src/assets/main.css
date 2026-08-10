@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  background-color: #010101; 
+  min-height: 100vh;
+  padding: 0;
+  margin: 0;
+} 
+#app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
